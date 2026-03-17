@@ -1,5 +1,5 @@
 # ventyolanapitupulu-academic-database-system-CIS-institut-teknologi-del
-A relational database system designed to support the academic features of the Campus Information System (CIS) at Institut Teknologi Del. This project covers full-cycle database development: from business process analysis to physical implementation using  Microsoft SQL ServerL.
+A relational database system designed to support the academic features of the Campus Information System (CIS) at Institut Teknologi Del. This project covers full-cycle database development: from business process analysis to physical implementation using  Microsoft SQL Server.
 
 **📌 Project Overview**
 CIS IT Del is a web-based academic information system that integrates student, lecturer, and academic administration data. This project focuses on designing and implementing the database layer that supports nine core academic business processes.
